@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Diseñadora",
+      "organisation": "Ningiri",
+      "startDate": "Julio, 2022",
+      "endDate": "Mayo, 2023",
+      "experiences": ["Diseño de personajes", "Creación de niveles"],
+      "imageSrc": "history/ningirii.png"
+    },
+    {
+      "role": "Binguera senior",
+      "organisation": "Bingo Blitz",
+      "startDate": "Febrero, 2012",
+      "endDate": "-",
+      "experiences": ["Jugar con 4 cartas", "8.846 bingos en total"],
+      "imageSrc": "history/bingo.png"
+    },
+    {
+      "role": "Universitaria",
+      "organisation": "Universidad EIA",
+      "startDate": "Enero, 2021",
+      "endDate": "Dic, 2025 (espero)",
+      "experiences": [
+        "Sobreviví a Isis",
+        "No he perdido materias ;)"],
+      "imageSrc": "history/EIA.png"
+    }
+  ]
+  

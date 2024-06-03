@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Objeto Virtual de Aprendizaje",
+      "imageSrc": "projects/Aprendiot.png",
+      "description": "ArendIoT (￣y▽￣)╭ Ohohoho.....",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Ningiri",
+      "imageSrc": "projects/no.png",
+      "description": "El juego que hicimos con Juangui 👈(ﾟヮﾟ👈)",
+      "skills": ["Unity", "Figma", "C#", "IbisPaint"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "App médica",
+      "imageSrc": "projects/appmedica.png",
+      "description": "El doctor que nos lo pidió tenía un gato muy lindo ༼ つ ◕_◕ ༽つ",
+      "skills": ["Flutter", "Java", "FlutterFlow"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  
