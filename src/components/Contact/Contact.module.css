@@ -16,12 +16,14 @@
   font-size: 70px;
   font-weight: 700;
   letter-spacing: 4px;
+  margin-bottom: 20px; /* Añade un margen inferior para más espaciado */
 }
 
 .text p {
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 2px;
+  margin-top: 20px; /* Alternativamente, puedes usar este margen superior */
 }
 
 .links {
