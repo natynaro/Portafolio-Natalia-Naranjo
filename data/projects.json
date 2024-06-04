@@ -3,7 +3,7 @@
       "title": "Plataforma de Ventas de Accesorios",
       "imageSrc": "projects/miyukiMainPage.png",
       "description": "Venta de accesorios de miyuki, proyecto personal",
-      "skills": ["React", "Next.js","Nest.js", "Postgres"],
+      "skills": ["React", "Next.tsx","Nest.js", "Postgres"],
       "demo": "https://miyukiwi.vercel.app/",
       "source": "https://github.com/natynaro/Miyuki-Web-Platform"
     },
@@ -35,7 +35,7 @@
       "title": "App Harry Potter",
       "imageSrc": "projects/Harry-Potter-API.png",
       "description": "Proyecto para consultar API harrypotter y conocer los personajes y libros",
-      "skills": ["Flutter", "Java", "FlutterFlow"],
+      "skills": ["Flutter", "Python", "AWS"],
       "demo": "https://github.com/natynaro/HarryPotter-API-Consulta",
       "source": "https://github.com/natynaro/HarryPotter-API-Consulta"
     },
