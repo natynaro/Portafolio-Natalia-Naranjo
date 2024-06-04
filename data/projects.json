@@ -1,27 +1,51 @@
 [
     {
-      "title": "Objeto Virtual de Aprendizaje",
-      "imageSrc": "projects/Aprendiot.png",
-      "description": "ArendIoT (￣y▽￣)╭ Ohohoho.....",
-      "skills": ["Html", "Css", "JavaScript"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Plataforma de Ventas de Accesorios",
+      "imageSrc": "projects/miyukiMainPage.png",
+      "description": "Venta de accesorios de miyuki, proyecto personal",
+      "skills": ["React", "Next.js","Nest.js", "Postgres"],
+      "demo": "https://miyukiwi.vercel.app/",
+      "source": "https://github.com/natynaro/Miyuki-Web-Platform"
     },
+    {
+      "title": "Juego de Adivina el Pokemon ",
+      "imageSrc": "projects/pokemonMainPage.png",
+      "description": "Juego para adivinar el pokemon, proyecto universitario para conectarse a una API",
+      "skills": ["React.js", "Css"],
+      "demo": "https://pokemonrandomgame.vercel.app/",
+      "source": "https://github.com/natynaro/Pokemon-Random-Game"
+    }, 
     {
       "title": "Ningiri",
       "imageSrc": "projects/no.png",
-      "description": "El juego que hicimos con Juangui 👈(ﾟヮﾟ👈)",
+      "description": "Proyecto de la universidad para la creación de un juego platformer en Unity",
       "skills": ["Unity", "Figma", "C#", "IbisPaint"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://youtu.be/galDYnyOPg4",
+      "source": "https://github.com/natynaro/Ningiri-Game"
     },
     {
       "title": "App médica",
       "imageSrc": "projects/appmedica.png",
-      "description": "El doctor que nos lo pidió tenía un gato muy lindo ༼ つ ◕_◕ ༽つ",
+      "description": "Aplicación de consulta médica, proyecto universitario para la facilitación de interpretación de resultados de bacterias",
+      "skills": ["Flutter", "Java", "FlutterFlow"],
+      "demo": "https://github.com/natynaro/Aplicacion-Medica",
+      "source": "https://github.com/natynaro/Aplicacion-Medica"
+    },
+    {
+      "title": "App Harry Potter",
+      "imageSrc": "projects/appmedica.png",
+      "description": "Proyecto para consultar API harrypotter y conocer los personajes",
       "skills": ["Flutter", "Java", "FlutterFlow"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Objeto Virtual de Aprendizaje",
+      "imageSrc": "projects/Aprendiot.png",
+      "description": "Plataforma de aprendizaje ArendIoT para la enseñanza deel Internet de las Cosas",
+      "skills": ["Html", "Css", "JavaScript"],
+      "demo": "https://aprendiot.vercel.app/",
+      "source": "https://github.com/natynaro/AprendIoT-web"
     }
   ]
   

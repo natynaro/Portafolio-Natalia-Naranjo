@@ -75,7 +75,9 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 70px; /* Incrementa el tamaño del logo */
+  height: 70px; /* Asegura que mantenga la proporción */
+  object-fit: contain; /* Asegura que la imagen se ajuste bien dentro del contenedor */
 }
 
 .historyItemDetails {

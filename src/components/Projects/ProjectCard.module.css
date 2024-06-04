@@ -8,32 +8,36 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
-  height: 480px;
+  height: 650px; 
 }
 
 .image {
-  margin-bottom: 26px;
+  width: 100%; 
+  height: auto; 
+  cursor: pointer;
+  object-fit: cover; 
 }
 
 .title {
+  margin-top: 20px;
   font-size: 25px;
   font-weight: 700;
 }
 
-.description {
-  margin-top: 6px;
+.description { 
+  margin-top: 20px; 
   font-size: 25px;
   font-weight: 400;
 }
 
 .skills {
   width: 100%;
-  margin-top: 14px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
+  margin-top: auto; /* Asegura que las skills se mantengan al final */
 }
 
 .skill {
@@ -44,19 +48,26 @@
   padding: 2px 22px;
 }
 
-.links {
-  width: 100%;
-  margin-top: 26px;
+.sourceBtnContainer {
+  margin-top: auto; /* Asegura que el botón se mantenga al final */
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 
-.link {
+.sourceBtn {
+  width: 100%;
   text-decoration: none;
+  text-align: center;
   color: var(--color-text);
-  font-size: 30px;
-  font-weight: 600;
-  border-radius: 100px;
   background: var(--color-primary);
-  padding: 1px 22px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  transition: background-color 0.3s;
+}
+
+.sourceBtn:hover {
+  background-color: var(--color-secondary);
 }

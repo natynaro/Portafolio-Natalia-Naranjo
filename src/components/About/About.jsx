@@ -9,7 +9,7 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={getImageUrl("nav/about/aboutImage.png")}
-          alt="Me sitting with a laptop"
+          alt="Muneca sentada con laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
@@ -18,7 +18,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              hice esto con un tutorial, pero hay veces me salen las cosas ( •̀ ω •́ )y
+                Con experiencia en la creación de interfaces de usuario atractivas y funcionales utilizando tecnologías como React, HTML, CSS, JavaScript, TypeScript, entre otras. Soy apasionada por el diseño intuitivo y la experiencia del usuario.
               </p>
             </div>
           </li>
@@ -27,7 +27,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-              Soy capaz de hacer clases e interfaces (*/ω＼*)
+                Especializada en el desarrollo de APIs robustas y seguras utilizando frameworks como Node.js y Spring Boot. Tengo habilidades en la gestión de bases de datos SQL y NoSQL, y en la implementación de lógica de negocio.
               </p>
             </div>
           </li>
@@ -36,7 +36,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-              Entre menos intuitivo sea un diseño, mejor. Cada vez que intento hacer algo en figma muere un hada del bosque (┬┬﹏┬┬)
+                Enfocada en crear diseños de interfaces de usuario que sean tanto visualmente atractivos como fáciles de usar. Utilizo herramientas como Figma para desarrollar prototipos y wireframes.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("nav/about/serverIcon.png")} alt="Responsive Design icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Responsive Design</h3>
+              <p>
+                Experiencia en el diseño y desarrollo de interfaces que se adaptan a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente y agradable.
               </p>
             </div>
           </li>
