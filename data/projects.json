@@ -34,10 +34,10 @@
     {
       "title": "App Harry Potter",
       "imageSrc": "projects/appmedica.png",
-      "description": "Proyecto para consultar API harrypotter y conocer los personajes",
+      "description": "Proyecto para consultar API harrypotter y conocer los personajes y libros",
       "skills": ["Flutter", "Java", "FlutterFlow"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://github.com/natynaro/HarryPotter-API-Consulta",
+      "source": "https://github.com/natynaro/HarryPotter-API-Consulta"
     },
     {
       "title": "Objeto Virtual de Aprendizaje",
